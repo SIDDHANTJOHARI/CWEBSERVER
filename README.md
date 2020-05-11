@@ -1,7 +1,7 @@
 # CWEBSERVER
 I have implemented http webserver in C.
 
-The benifit of this is that the user has to write only function for the services.
+The benifit of this is that the user has to write only function for the services and it is much faster because there is no wrapping .
 
 ## Code
 ```c
