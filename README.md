@@ -5,12 +5,15 @@ Technology Used:C
 
 Operating System:Linux
 
-The server runs on port number 8887 on Linux and includes features like handling HTTP GET/POST request ,handling stattic request of content types(txt, JSON, html, jpg, zip. rar, pdf, php etc.), dynamic requests (update database etc.) sending proper HTTP error codes and also provide facilty to set/get Cookie/Session.
+The server runs on port number 8887 on Linux and includes features like handling HTTP GET/POST request ,handling static request of content types(txt, JSON, html, jpg, zip. rar, pdf, php etc.), dynamic requests (update database etc.) sending proper HTTP error codes and also provide facilty to set/get Cookie/Session.
 
 ## Benifits of using this Application:
 1.It can Handle multiple requests at same time.
+
 2.It is much faster than java/python based Webserver.
+
 3.It is open source you can also provide some other functionalities.
+
 4.Code is Easy to Understand.
 
 I thought it would be useful for you if I share the code.
